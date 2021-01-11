@@ -1,5 +1,7 @@
 var Notes = [
-    ["Maths Notes 4 Jan 2021","6-1-2021","https://drive.google.com/file/d/15nM-fXbdQbDrD3JHYCytwhY7UooeDAlg/view?usp=sharing"],
+    ["Maths Notes 11 Jan 2021","11-1-2021","https://drive.google.com/file/d/1sim33cw6TiDou-jOMxY3vtdJF8L9swDY/view?usp=sharing"],
+    ["Maths Notes 8 Jan 2021","8-1-2021","https://drive.google.com/file/d/1sunIwqVK7plpe9rLIJcecp3gs4Lbr9re/view?usp=sharing"],
+    ["Maths Notes 6 Jan 2021","6-1-2021","https://drive.google.com/file/d/15nM-fXbdQbDrD3JHYCytwhY7UooeDAlg/view?usp=sharing"],
     ["Maths Notes 4 Jan 2021","4-1-2021","https://drive.google.com/file/d/1qakqfvBGAQycQJK-xFF696o-pX-SkZCZ/view?usp=sharing"],
     ["Maths lactures notes 1 Dec 2020 to 3 Jan 2021","3-1-2021","https://drive.google.com/file/d/1YX3nVK2Jz-gLIRLF0KnMziwXtMzAEqm0/view?usp=sharing"],
     ["Maths lacture1 Successive Diffrentiation","11-12-2020","https://drive.google.com/file/d/1wSYjfkQEXyG4E2UUVwZ9FJdYGde_V4sD/view?usp=sharing"],
