@@ -50,6 +50,7 @@ body {
 
 .card-text {
     color: black;
+    text-align: left;
 }
 
 .date-text {
